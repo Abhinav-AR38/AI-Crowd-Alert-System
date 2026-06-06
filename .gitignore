@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# OSM Cache
+backend/cache/
+
+# React
+frontend/node_modules/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
